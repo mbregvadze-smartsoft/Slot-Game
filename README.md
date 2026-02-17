@@ -44,7 +44,7 @@ The project includes a file `fake.api.js` with a function `GetBoard`:
 - If no parameter is provided, it returns the current information.
 
 ## 🔗 Resources
-[https://we.tl/t-9n5hfqI9DE](https://we.tl/t-rCaNs8mUxj)
+https://we.tl/t-ZGHZxNeCrK
 
 Ready-to-use JavaScript libraries and spin animations are already included in the repository as a template; you can extract the images from the Photoshop file.
 
